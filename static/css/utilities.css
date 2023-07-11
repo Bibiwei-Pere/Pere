@@ -1,0 +1,30 @@
+.container {
+  width: 90%;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.inner-container {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.underline {
+  position: relative;
+  width: fit-content;
+  padding: 0 0.25em;
+}
+
+.underline:before {
+  content: "";
+  z-index: -1;
+  position: absolute;
+  background-color: var(--secondary-color);
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  transition: max-width 500ms, background-color 500ms, color 500ms;
+}
