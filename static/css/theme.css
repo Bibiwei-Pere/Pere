@@ -72,10 +72,6 @@
   display: none;
 }
 
-.neon body {
-  font-family: "Orbitron", sans-serif;
-}
-
 .neon body::before,
 .neon body::after {
   content: "";
