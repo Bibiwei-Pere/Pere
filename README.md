@@ -1,6 +1,6 @@
 <img src="static\images\github\github-1.jpg" alt="Pere"/>
-<img src="static\images\github\github-1.jpg" alt="Pere"/>
-<img src="static\images\github\github-1.jpg" alt="Pere"/>
+<img src="static\images\github\github-2.jpg" alt="Pere"/>
+<img src="static\images\github\github-3.jpg" alt="Pere"/>
 
 ## Personal Portfolio
 
