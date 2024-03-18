@@ -640,6 +640,8 @@ section:last-of-type .container {
 
 .project-tags {
   display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
   padding: 1rem;
   margin: 0;
 }
